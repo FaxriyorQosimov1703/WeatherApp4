@@ -15,18 +15,23 @@
 
 .app.cool {
   background: url('./images/yomgir.jpg');
+  background-size: cover;
 }
 .app.son {
   background: url('./images/iliq.jpg');
+  background-size: cover;
 }
 .app.could {
   background: url('./images/tabiat.jpg');
+  background-size: cover;
 }
 .app.quyosh {
   background: url('./images/quyosh.jpg');
+  background-size: cover;
 }
 .app.sovuq {
-  background: url('./images/10.\ Цветы.jpg');
+  background: url('./images/quyosh.jpg');
+  background-size: cover;
 }
 .input-box {
   padding: 30px;
